@@ -169,7 +169,7 @@
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 800;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 24px;
   text-align: center;
   color: #FFFFFF;
@@ -192,9 +192,9 @@
 .countdown-amount__text {
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
-  font-weight: 900;
-  font-size: 25px;
-  line-height: 30px;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 22px;
   text-align: center;
   color: #FFFFFF;
 }
@@ -351,7 +351,7 @@
   border-radius: 10px;
 }
 .cta-head__discount b {
-  margin-left: 4px;
+  margin-right: 4px;
 }
 .cta-head__name {
   font-family: 'Montserrat', sans-serif;
@@ -369,8 +369,8 @@
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 23px;
-  line-height: 28px;
+  font-size: 18px;
+  line-height: 22px;
   text-align: right;
   
   color: #FFFFFF;
